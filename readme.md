@@ -36,6 +36,6 @@
 
 ## 奥付
 
-発行日: 23/11/12 デジゲー博2023
-サークル:TXT.TXT 
-製作者:冬椿(twitter:@fuyutsubaki)
+- 発行日: 23/11/12 デジゲー博2023
+- サークル:TXT.TXT 
+- 製作者:冬椿(twitter:@fuyutsubaki)
