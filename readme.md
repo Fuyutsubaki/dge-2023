@@ -2,6 +2,7 @@
 ===
 
 ## ゲーム概要
+
 対戦要素のあるスイ〇ゲームです
 
 - 数字の書かれたオブジェクトを自分のカゴに順番に落とします
@@ -29,8 +30,9 @@
 
 
 ## リンク
-ゲーム: https://fuyutsubaki.github.io/dge-2023/index.html
-readme: https://fuyutsubaki.github.io/dge-2023/readme.md
+
+- ゲーム: https://fuyutsubaki.github.io/dge-2023/index.html
+- readme: https://fuyutsubaki.github.io/dge-2023/readme.md
 
 ## 奥付
 
